@@ -1,0 +1,13 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(209, 123, 138);
+    background-color: rgb(162, 240, 214);
+    border-style: dashed;
+    text-decoration: underline rgb(9, 212, 60);
+    
+}
